@@ -5,8 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="115dbacd-3099-4a73-96d7-99744b87959c" name="Changes" comment="deixando o código advinha organizado">
-      <change afterPath="$PROJECT_DIR$/src/main/java/aulas/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/aulas/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/aulas/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -29,12 +29,12 @@
     &quot;assignee&quot;: &quot;yurigmr&quot;
   }
 }</component>
-  <component name="GithubPullRequestsUISettings">{
-  &quot;selectedUrlAndAccountId&quot;: {
-    &quot;url&quot;: &quot;https://github.com/yurigmr07/lp-faculdade-java1.git&quot;,
-    &quot;accountId&quot;: &quot;273355e4-cfef-4a75-b3e8-86a293c5bb91&quot;
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/yurigmr07/lp-faculdade-java1.git",
+    "accountId": "7169047d-f35a-4797-b60e-f8857f4845c9"
   }
-}</component>
+}]]></component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 2
 }</component>
@@ -50,6 +50,7 @@
     "Application.Aula01.executor": "Run",
     "Application.Exe1002.executor": "Run",
     "Application.Exe1003.executor": "Run",
+    "Application.Main.executor": "Run",
     "Application.Media1.executor": "Run",
     "Application.Teste.executor": "Run",
     "ModuleVcsDetector.initialDetectionPerformed": "true",
@@ -84,14 +85,6 @@
       <option name="filePath" />
       <method v="2" />
     </configuration>
-  </component>
-  <component name="SharedIndexes">
-    <attachedChunks>
-      <set>
-        <option value="bundled-jdk-30f59d01ecdd-37e91769500f-intellij.indexing.shared.core-IU-261.27258.48" />
-        <option value="bundled-js-predefined-d6986cc7102b-31caf2ab9e3c-JavaScript-IU-261.27258.48" />
-      </set>
-    </attachedChunks>
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
