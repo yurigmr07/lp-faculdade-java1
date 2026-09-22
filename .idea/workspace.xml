@@ -4,6 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
+<<<<<<< HEAD
     <list default="true" id="115dbacd-3099-4a73-96d7-99744b87959c" name="Changes" comment=".">
       <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" />
@@ -11,6 +12,11 @@
       <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" />
+=======
+    <list default="true" id="115dbacd-3099-4a73-96d7-99744b87959c" name="Changes" comment="deixando o código advinha organizado">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/aulas/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/aulas/Main.java" afterDir="false" />
+>>>>>>> 679295dd3cf207e6e36fdd616fe862087856e750
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -33,10 +39,17 @@
     &quot;assignee&quot;: &quot;yurigmr&quot;
   }
 }</component>
+<<<<<<< HEAD
   <component name="GithubPullRequestsUISettings">{
   &quot;selectedUrlAndAccountId&quot;: {
     &quot;url&quot;: &quot;https://github.com/yurigmr07/lp-faculdade-java1.git&quot;,
     &quot;accountId&quot;: &quot;f8762a8e-1a89-4a3b-937e-ce4b55a6becc&quot;
+=======
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/yurigmr07/lp-faculdade-java1.git",
+    "accountId": "7169047d-f35a-4797-b60e-f8857f4845c9"
+>>>>>>> 679295dd3cf207e6e36fdd616fe862087856e750
   }
 }</component>
   <component name="ProjectColorInfo">{
@@ -47,6 +60,7 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
+<<<<<<< HEAD
   <component name="PropertiesComponent">{
   &quot;keyToString&quot;: {
     &quot;ASKED_SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
@@ -67,6 +81,36 @@
     &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
     &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
     &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;
+=======
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "Application.Adivinha.executor": "Run",
+    "Application.Aula01.executor": "Run",
+    "Application.Exe1002.executor": "Run",
+    "Application.Exe1003.executor": "Run",
+    "Application.Main.executor": "Run",
+    "Application.Media1.executor": "Run",
+    "Application.Teste.executor": "Run",
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "codeWithMe.voiceChat.enabledByDefault": "false",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/docs/OneDrive/Documentos/RIO Tinto ( estudo )/introdução a programação/lp-faculdade-java1",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "onboarding.tips.debug.path": "C:/Users/yuri.rodrigues/Documents/GitHub/lp-faculdade-java1/Aula01/src/Main.java",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.0"
+>>>>>>> 679295dd3cf207e6e36fdd616fe862087856e750
   }
 }</component>
   <component name="TaskManager">
@@ -93,7 +137,15 @@
       <option name="project" value="LOCAL" />
       <updated>1788878355727</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="deixando o código advinha organizado">
+      <option name="closed" value="true" />
+      <created>1790029619341</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1790029619341</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -101,6 +153,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="." />
-    <option name="LAST_COMMIT_MESSAGE" value="." />
+    <MESSAGE value="deixando o código advinha organizado" />
+    <option name="LAST_COMMIT_MESSAGE" value="deixando o código advinha organizado" />
   </component>
 </project>
