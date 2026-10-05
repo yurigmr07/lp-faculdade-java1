@@ -15,21 +15,27 @@ public class Endereco {
         this.cidade = cidade;
         this.estado = estado;
     }
+
     public Endereco() {
-        this("","","","","");
+        this("", "", "", "", "");
     }
+
     public String getLogradouro() {
         return logradouro;
     }
+
     public void setLogradouro(String logradouro) {
         this.logradouro = logradouro;
     }
+
     public String getNumero() {
         return numero;
     }
+
     public void setNumero(String numero) {
         this.numero = numero;
     }
+
     @Override
     public String toString() {
         return "Endereco [logradouro=" + logradouro +
@@ -37,21 +43,27 @@ public class Endereco {
                 ", cidade=" + cidade
                 + ", estado=" + estado + "]";
     }
+
     public String getBairro() {
         return bairro;
     }
+
     public void setBairro(String bairro) {
         this.bairro = bairro;
     }
+
     public String getCidade() {
         return cidade;
     }
+
     public void setCidade(String cidade) {
         this.cidade = cidade;
     }
+
     public String getEstado() {
         return estado;
     }
+
     public void setEstado(String estado) {
         this.estado = estado;
     }

@@ -7,12 +7,15 @@ public class ProgramaAgenda {
         int maxContatos = 1000;
         AgendaEnderecos agenda = new AgendaEnderecos(maxContatos);
         boolean sair = false;
+
+
         while (!sair) {
             int opcao = Integer.parseInt(JOptionPane.showInputDialog(
                     "Digite uma opção:\n1.Cadastrar contato\n"
                             +"2.Pesquisa endereço\n"
                             + "3.Pesquisa número de contatos do bairro\n"
-                            + "4.Apaga contato\n5.Sair\n"));
+                            + "4.Apaga contato\n" +
+                            "5.Sair\n"));
             switch(opcao) {
                 case 1:
                     String nome = JOptionPane.showInputDialog("Qual o nome?");

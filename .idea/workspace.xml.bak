@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="534f4239-cc25-4034-bbd9-d1a7856d6bda" name="Changes" comment=".">
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml.bak" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Exercicio/exercicio6_1/ProgramaDescontos.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Exercicio/exercicio6_1/ProgramaDescontos.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/agenda/Endereco.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/agenda/Endereco.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/agenda/ProgramaAgenda.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/agenda/ProgramaAgenda.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="DEPENDENCY_CHECKER_PROBLEMS_TAB" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.ProgramaAgenda.executor": "Run",
+    "Application.ProgramaDescontos.executor": "Debug",
+    "git-widget-placeholder": "main",
+    "node.js.selected.package.tslint": "(autodetect)"
+  }
+}]]></component>
+  <component name="TaskManager">
+    <task id="LOCAL-00001" summary=".">
+      <option name="closed" value="true" />
+      <created>1791214178121</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1791214178121</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="." />
+    <option name="LAST_COMMIT_MESSAGE" value="." />
+  </component>
+</project>
