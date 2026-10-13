@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="1e0feba4-46c6-4469-aed5-071a38a9d03c" name="Changes" comment="atividade em sala">
+      <change afterPath="$PROJECT_DIR$/src/main/java/Exercicio/exercicio6_2/refeicao2/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/agenda/AgendaEnderecos.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/agenda/AgendaEnderecos.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/aulas/agendas/AgendaEndereco.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/aulas/agendas/Contato.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/aulas/agendas/Endereco.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/aulas/agendas/ProgramaAgenda.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/refeicao/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Exercicio/exercicio6_2/refeicao/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/refeicao/RefeicaoRealizada.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Exercicio/exercicio6_2/refeicao/RefeicaoRealizada.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.Main.executor": "Run",
+    "Application.Teste.executor": "Run",
+    "git-widget-placeholder": "main"
+  }
+}]]></component>
+  <component name="TaskManager">
+    <servers />
+  </component>
+</project>

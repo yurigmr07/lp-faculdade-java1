@@ -1,4 +1,4 @@
-package refeicao;
+package Exercicio.exercicio6_2.refeicao;
 
 import java.util.Scanner;
 
@@ -27,7 +27,6 @@ public class Main {
         System.out.println("Houve alguma refeição do tipo CAFÉ? ");
         verificaCafe(refeicoes);
 
-// TODO: Código a acrescentar
 
         System.out.println("Quantidade de refeições do tipo ALMOÇO realizadas: " + contAlmoco);
         System.out.printf("FIM DO PROGRAMA");
