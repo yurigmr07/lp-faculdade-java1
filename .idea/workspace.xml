@@ -4,8 +4,17 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="115dbacd-3099-4a73-96d7-99744b87959c" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+    <list default="true" id="115dbacd-3099-4a73-96d7-99744b87959c" name="Changes" comment=".">
+      <change afterPath="$PROJECT_DIR$/src/main/java/interfaces/geometria/CalculadoraDeAreas.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/interfaces/geometria/Figura.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/interfaces/geometria/Quadrado.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/interfaces/geometria/Triangulo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/interfaces/som/Cachorro.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/interfaces/som/CaixaDeSom.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/interfaces/som/EmissorDeSom.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/interfaces/som/Tambor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/interfaces/som/TesteCaixaDeSom.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -15,6 +24,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="JUnit5 Test Class" />
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
@@ -43,11 +54,50 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Application.Main.executor&quot;: &quot;Run&quot;,
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "Application.Adivinha.executor": "Run",
+    "Application.Aula01.executor": "Run",
+    "Application.CalculadoraDeAreas.executor": "Run",
+    "Application.Exe1002.executor": "Run",
+    "Application.Exe1003.executor": "Run",
+    "Application.Main.executor": "Run",
+    "Application.Media1.executor": "Run",
+    "Application.Teste.executor": "Run",
+    "Application.TesteCaixaDeSom.executor": "Run",
+    "JUnit.TrianguloTest.executor": "Run",
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "codeWithMe.voiceChat.enabledByDefault": "false",
+    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary": "JUnit5",
+    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5": "",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/docs/OneDrive/Documentos/RIO Tinto ( estudo )/introdução a programação/lp-faculdade-java1",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "onboarding.tips.debug.path": "C:/Users/yuri.rodrigues/Documents/GitHub/lp-faculdade-java1/Aula01/src/Main.java",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.0"
   }
-}</component>
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="interfaces.geometria" />
+    </key>
+  </component>
   <component name="TaskManager">
     <task id="LOCAL-00001" summary=".">
       <option name="closed" value="true" />
@@ -64,7 +114,15 @@
       <option name="presentableId" value="Default" />
       <updated>1792444792320</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary=".">
+      <option name="closed" value="true" />
+      <created>1792495137039</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1792495137039</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
