@@ -4,12 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7fdd3bf8-0609-48bd-b6a0-cb127af6fb5a" name="Changes" comment=".">
-      <change afterPath="$PROJECT_DIR$/src/main/java/Exercicio7/bancocontas/BancoList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Exercicio7/bancocontas/Conta.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Exercicio7/pessoa/Pessoa.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Exercicio7/pessoa/TestePessoa.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="115dbacd-3099-4a73-96d7-99744b87959c" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -26,22 +22,22 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "yurigmr"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;yurigmr&quot;
   }
-}]]></component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/yurigmr07/lp-faculdade-java1.git",
-    "accountId": "ddac9384-9d55-49e6-a88b-ec8f6eb5af18"
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/yurigmr07/lp-faculdade-java1.git&quot;,
+    &quot;accountId&quot;: &quot;ddac9384-9d55-49e6-a88b-ec8f6eb5af18&quot;
   }
-}]]></component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "customColor": "",
-  "associatedIndex": 3
-}]]></component>
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;customColor&quot;: &quot;&quot;,
+  &quot;associatedIndex&quot;: 3
+}</component>
   <component name="ProjectId" id="3Kvj9zf1oH1uh8r0KP69kGwItX6" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -52,14 +48,6 @@
     &quot;Application.Main.executor&quot;: &quot;Run&quot;,
   }
 }</component>
-  <component name="SharedIndexes">
-    <attachedChunks>
-      <set>
-        <option value="bundled-jdk-30f59d01ecdd-37e91769500f-intellij.indexing.shared.core-IU-261.27258.48" />
-        <option value="bundled-js-predefined-d6986cc7102b-31caf2ab9e3c-JavaScript-IU-261.27258.48" />
-      </set>
-    </attachedChunks>
-  </component>
   <component name="TaskManager">
     <task id="LOCAL-00001" summary=".">
       <option name="closed" value="true" />
