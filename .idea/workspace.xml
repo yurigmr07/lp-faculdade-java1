@@ -5,11 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="115dbacd-3099-4a73-96d7-99744b87959c" name="Changes" comment=".">
-      <change afterPath="$PROJECT_DIR$/src/main/java/titureco/AtrativoTuristico.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/titureco/Praia.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/titureco/TiturecoInterface.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/titureco/TiturecoList.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/titureco/AtrativoTuristico.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/titureco/AtrativoTuristico.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/titureco/TiturecoList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/titureco/TiturecoList.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -39,12 +37,12 @@
     &quot;assignee&quot;: &quot;yurigmr&quot;
   }
 }</component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/yurigmr07/lp-faculdade-java1.git",
-    "accountId": "7169047d-f35a-4797-b60e-f8857f4845c9"
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/yurigmr07/lp-faculdade-java1.git&quot;,
+    &quot;accountId&quot;: &quot;7169047d-f35a-4797-b60e-f8857f4845c9&quot;
   }
-}]]></component>
+}</component>
   <component name="ProjectColorInfo">{
   &quot;customColor&quot;: &quot;&quot;,
   &quot;associatedIndex&quot;: 3
@@ -108,7 +106,7 @@
       <updated>1792440170851</updated>
     </task>
     <task active="true" id="Default" summary="Default task">
-      <changelist id="7fdd3bf8-0609-48bd-b6a0-cb127af6fb5a" name="Changes" comment="." />
+      <changelist id="115dbacd-3099-4a73-96d7-99744b87959c" name="Changes" comment="." />
       <created>1792444792320</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />

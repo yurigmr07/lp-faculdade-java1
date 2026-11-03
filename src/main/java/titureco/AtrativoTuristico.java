@@ -1,5 +1,7 @@
 package titureco;
 
+import java.util.Objects;
+
 public class AtrativoTuristico {
     private String nome;
     private double latitude;
@@ -71,9 +73,14 @@ public class AtrativoTuristico {
 
 
     @Override
-    public String toString() {
-        return nome + " - " + cidade + "/" + estado
-                + " (" + latitude + ", " + longitude + ") | Como chegar: " + comoChegar;
+    public boolean equals(Object o) {
+        if (o == null || getClass() != o.getClass()) return false;
+        AtrativoTuristico that = (AtrativoTuristico) o;
+        return Double.compare(latitude, that.latitude) == 0 && Double.compare(longitude, that.longitude) == 0 && Objects.equals(nome, that.nome) && Objects.equals(comoChegar, that.comoChegar) && Objects.equals(cidade, that.cidade) && Objects.equals(estado, that.estado);
     }
 
+    @Override
+    public int hashCode() {
+        return Objects.hash(nome, latitude, longitude, comoChegar, cidade, estado);
+    }
 }
