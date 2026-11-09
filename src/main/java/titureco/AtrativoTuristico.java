@@ -24,11 +24,6 @@ public class AtrativoTuristico {
     }
 
 
-    //TODO:
-
-
-
-
     public String getNome() {
         return nome;
     }
