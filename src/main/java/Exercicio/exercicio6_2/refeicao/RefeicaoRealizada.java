@@ -1,4 +1,4 @@
-package refeicao;
+package Exercicio.exercicio6_2.refeicao;
 
 public class RefeicaoRealizada {
     private String matriculaAluno;

@@ -11,6 +11,15 @@ public class AgendaEnderecos {
         this.contatos = new Contato[maxContatos];
     }
 
+    public boolean existeContato(String nomeContato) {
+        for (int k = 0; k < contContatos; k++) {
+            if (contatos[k].getNome().equalsIgnoreCase(nomeContato)) {
+                return true;
+            }
+        }
+        return false;
+    }
+    
     public boolean apagaContato(String nomeContato) {
         for (int k=0; k<contContatos; k++) {
             Contato c = this.contatos[k];
